@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1623092611 source:d:\asesi\documents\proyectoscb\piladinamica\pila.c
+	"pila.h"
+
+1605050866 d:\asesi\documents\proyectoscb\piladinamica\pila.h
+	<stdio.h>
+	<string.h>
+	"err.h"
+
+1605044338 d:\asesi\documents\proyectoscb\piladinamica\err.h
+	<stdlib.h>
+
+1623091611 source:d:\asesi\documents\proyectoscb\piladinamica\usa_pila.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+

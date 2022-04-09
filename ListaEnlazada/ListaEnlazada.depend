@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1607588190 source:d:\asesi\documents\proyectoscb\listaenlazada\nodo.c
+	"nodo.h"
+
+1624384746 d:\asesi\documents\proyectoscb\listaenlazada\nodo.h
+	"err.h"
+
+1607587761 d:\asesi\documents\proyectoscb\listaenlazada\err.h
+	<stdlib.h>
+
+1624343288 source:d:\asesi\documents\proyectoscb\listaenlazada\usalis.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"lista.h"
+
+1624483306 d:\asesi\documents\proyectoscb\listaenlazada\lista.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"err.h"
+	"nodo.h"
+
+1624473760 source:d:\asesi\documents\proyectoscb\listaenlazada\usalis1.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"lista.h"
+
+1624483306 source:d:\asesi\documents\proyectoscb\listaenlazada\lista.c
+	"lista.h"
+
+1624483306 source:d:\asesi\documents\proyectoscb\listaenlazada\usalis2.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"lista.h"
+
+1624483554 source:d:\asesi\documents\proyectoscb\listaenlazada\usalis3.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"lista.h"
+

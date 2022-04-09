@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1621824440 source:d:\asesi\documents\ordenamiento\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1620353989 source:d:\asesi\documents\ordenamiento\ordenamiento.c
+	"Ordenamiento.h"
+
+1620326841 d:\asesi\documents\ordenamiento\ordenamiento.h
+	<stdlib.h>
+
+1620354373 source:d:\asesi\documents\ordenamiento\comparadores.c
+	"Comparadores.h"
+
+1620323915 d:\asesi\documents\ordenamiento\comparadores.h
+	<string.h>
+
+1620352243 source:d:\asesi\documents\ordenamiento\asignadores.c
+	"Asignadores.h"
+
+1620324102 d:\asesi\documents\ordenamiento\asignadores.h
+	<stdio.h>
+

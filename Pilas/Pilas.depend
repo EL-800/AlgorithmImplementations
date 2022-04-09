@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1621910750 source:d:\asesi\documents\pilas\usa_pila.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1621726727 d:\asesi\documents\pilas\pila.h
+	<stdio.h>
+	<string.h>
+	"err.h"
+
+1621274416 d:\asesi\documents\pilas\err.h
+	<stdlib.h>
+
+1621952260 source:d:\asesi\documents\pilas\pila.c
+	"pila.h"
+
+1621909490 source:d:\asesi\documents\pilas\serie1.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1621910731 source:d:\asesi\documents\pilas\serie3.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1621910750 source:d:\asesi\documents\pilas\serie2.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
